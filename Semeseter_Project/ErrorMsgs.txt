@@ -1,0 +1,7 @@
+Incorrect EmailId: SS19-BCS-123@cuilahore.edu.pk
+lINE: SP19-BCS-123,Usama,Nazeer,34567-1234567-1,23,3.45,SS19-BCS-123@cuilahore.edu.pk contains wrong data
+Incorrect SID: SP18-420-101
+Incorrect CNIC: 67890-1234567-90
+Incorrect Age: 420
+Incorrect CGPA: 5.00
+lINE: SP18-420-101,Altaf,Hussain,67890-1234567-90,420,5.00,SP18-BCS-101@cuilahore.edu.pk contains wrong data

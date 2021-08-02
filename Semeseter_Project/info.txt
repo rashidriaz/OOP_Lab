@@ -1,0 +1,8 @@
+FA19-BSE-123,Saleem,Chaudhry,12345-1234567-1,21,2.94,FA19-BSE-123@cuilahore.edu.pk
+SP19-BCS-123,Usama,Nazeer,34567-1234567-1,23,3.45,SS19-BCS-123@cuilahore.edu.pk
+SP19-BCS-123,Aksam,Basheer,54321-1234567-1,22,3.45,SP19-BCS-123@cuilahore.edu.pk
+SP17-BCS-321,Hameed,Ghafoor,45678-1234567-1,24,3.45,SP17-BCS-321@cuilahore.edu.pk
+FA17-BCE-123,Shuja,Pasha,98765-1234567-1,25,2.94,FA17-BCE-123@cuilahore.edu.pk
+FA18-BCS-123,Tippu,Sultan,56789-1234567-1,32,4.00,FA18-BCS-123@cuilahore.edu.pk
+SP18-420-101,Altaf,Hussain,67890-1234567-90,420,5.00,SP18-BCS-101@cuilahore.edu.pk
+
